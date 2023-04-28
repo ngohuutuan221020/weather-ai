@@ -1,0 +1,4 @@
+configurationset:
+  - configuration:
+      name: curl_import_config
+      authentication_376b068a77: sansare::stepzen.io+1000::3d34493eaa21b9172f4355faa93dacccc8ea23df443bed48ec81f9c516a96b22
